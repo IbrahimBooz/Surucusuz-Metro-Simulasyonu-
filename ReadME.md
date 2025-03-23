@@ -58,6 +58,11 @@ Bu proje, algoritmik düşünmeyi geliştirme ve gerçek dünya problemlerine ç
 
 Projede NetworkX ve Matplotlib kütüphaneleri kullanılarak metro ağının görselleştirilmesi sağlanmıştır. Metro ağı bir grafik olarak modellenmiş ve istasyonlar ile bağlantılar arasındaki ilişkiler görsel hale getirilmiştir. Ayrıca, belirlenen rotalar harita üzerinde farklı renklerle gösterilmektedir.
 
-![Metro Ağı Görselleştirmesi](picture/Figure_2.png)
+![Metro Ağı Görselleştirmesi]
 
-![Senaryo çıktı](picture/Figure_3.png)
+<img src="./Picture/Figure_2.png" width="600">
+
+
+![Senaryo çıktı]
+
+<img src="./Picture/Figure_3.png" width="600">
